@@ -1,12 +1,6 @@
 # 威海麻将后端
 
 ----
-
-## 有言在先
-该项目只是一个**教学研究项目，不具备某些特殊功能！**
-
-客户端地址请访问：https://github.com/hjj2017/whmj.cocos2d_client
-
 威海地方玩法麻将，Java 服务端代码，JDK 语言版本 OpenJDK 13+33。
 想要在 IntelliJ IDEA 中成功运行代码，只需要依次启动两个服务器：
 
@@ -103,5 +97,3 @@ http://cdn0001.afrxvk.cn/whmj/go.html?serverAddr=127.0.0.1:20480
 如果是工作在测试模式中，可以使用下面这个地址：
 
 http://cdn0001.afrxvk.cn/whmj/go.html?serverAddr=127.0.0.1:20480&DEV=1&testerName=测试用户名称
-
-祝你好运！
